@@ -26,7 +26,7 @@
   .container {
     background-color: #151515;
     min-height: calc(100vh - 50px);
-    background-image: url('images/f-1.jpg'); 
+    background-image: url('images/backg.jpg'); 
     background-size: cover;
     margin-top: 50px;
   }
